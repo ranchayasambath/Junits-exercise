@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 public class JUnitTests {
 
     @Test
-    public void testIfNameIsKat(){
+    public void testIfNameIsJack(){
         String expected = "Jack";
         String actual = "jack";
 
